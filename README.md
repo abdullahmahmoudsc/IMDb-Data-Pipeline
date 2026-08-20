@@ -49,7 +49,7 @@ The project includes the following visualizations:
 ## Project Structure
 
 ```text
-IMDb_Data_Pipeline/
+IMDb-Data-Pipeline/
 │
 ├── data/
 │   ├── imdb_raw.csv
@@ -61,3 +61,23 @@ IMDb_Data_Pipeline/
 ├── main.py
 ├── requirements.txt
 └── README.md
+## How to Run
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+Run the scripts in the following order:
+
+scraping.py
+cleaning.py
+visualization.py
+## Data Validation
+
+The cleaned dataset was validated to ensure data quality.
+
+- No missing values
+- No duplicate records
+- Valid movie ratings
+- Valid runtime values
+- Valid vote counts
