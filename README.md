@@ -63,10 +63,6 @@ The project includes the following visualizations:
 
 ![Movie Runtime Distribution](data/runtime_distribution.png)
 
-### Top 10 Highest Rated Movies
-
-![Top 10 Highest Rated Movies](data/top_10_movies.png)
-
 ## Project Structure
 
 ```text
