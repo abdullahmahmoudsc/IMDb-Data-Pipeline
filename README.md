@@ -47,11 +47,25 @@ Data Visualization
 
 The project includes the following visualizations:
 
-- IMDb Rating Distribution
-- IMDb Rating vs Number of Votes
-- Movies by Release Year
-- Movie Runtime Distribution
-- Top 10 Highest Rated Movies
+### IMDb Rating Distribution
+
+![IMDb Rating Distribution](data/rating_distribution.png)
+
+### IMDb Rating vs Number of Votes
+
+![IMDb Rating vs Number of Votes](data/rating_vs_votes.png)
+
+### Movies by Release Year
+
+![Movies by Release Year](data/movies_by_year.png)
+
+### Movie Runtime Distribution
+
+![Movie Runtime Distribution](data/runtime_distribution.png)
+
+### Top 10 Highest Rated Movies
+
+![Top 10 Highest Rated Movies](data/top_10_movies.png)
 
 ## Project Structure
 
